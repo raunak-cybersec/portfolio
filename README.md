@@ -96,7 +96,6 @@ npm install
 npm run dev
 ```
 
-The site will be available at **http://localhost:5173**.
 
 ### Build for Production
 
@@ -122,16 +121,6 @@ To deploy your own fork:
 2. Import the project on [vercel.com](https://vercel.com)
 3. Vercel will auto-detect Vite and configure the build settings
 4. Done — your site is live ✓
-
----
-
-## 📸 Screenshots
-
-| Hero | About | Projects |
-|---|---|---|
-| ![Hero section showing name Raunak Rai with starfield background](./public/screenshots/hero.png) | ![About section with developer card and stats](./public/screenshots/about.png) | ![Projects section showing FinFlow, DevPulse, FitLife](./public/screenshots/projects.png) |
-
-> *Screenshots may not be present in the repository. Visit the [live site](https://raunakrai.vercel.app) to see the full experience.*
 
 ---
 
