@@ -125,16 +125,6 @@ To deploy your own fork:
 
 ---
 
-## 📸 Screenshots
-
-| Hero | About | Projects |
-|---|---|---|
-| ![Hero section showing name Raunak Rai with starfield background](./public/screenshots/hero.png) | ![About section with developer card and stats](./public/screenshots/about.png) | ![Projects section showing FinFlow, DevPulse, FitLife](./public/screenshots/projects.png) |
-
-> *Screenshots may not be present in the repository. Visit the [live site](https://raunakrai.vercel.app) to see the full experience.*
-
----
-
 ## 🎨 Design Highlights
 
 - **Dark Theme** — Deep `#080810` background with subtle noise texture
